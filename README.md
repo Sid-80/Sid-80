@@ -70,6 +70,10 @@
 
 ###
 
+[![trophy](https://github-profile-trophy.vercel.app/?Sid-80=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Sid-80/Sid-80/output/snake.svg" alt="Snake animation" />
