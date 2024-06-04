@@ -70,7 +70,7 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?Sid-80=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sid-80&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
 
