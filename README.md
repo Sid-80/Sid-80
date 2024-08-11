@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi 👋! My name is Siddharth and I'm a Full  Stack Web Developer, from India</h1>
+<h1 align="left">Hi, there👋! </h1>
 
 ###
 
