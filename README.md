@@ -83,6 +83,21 @@
 
 ###
 
+<h2>GSSOC'24 ⚒️</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" height="150" alt="postman badge"  />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" height="150" alt="badge 1"  />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" height="150" alt="badge 2"  />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" height="150" alt="badge 3"  />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" height="150" alt="badge 4"  />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" height="150" alt="badge 5"  />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" height="150" alt="badge 6"  />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" height="150" alt="badge 7"  />
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Sid-80/Sid-80/output/snake.svg" alt="Snake animation" />
