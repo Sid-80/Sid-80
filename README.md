@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi, there👋! </h1>
+<h1 align="left">Yoo👋! </h1>
 
 ###
 
@@ -80,21 +80,6 @@
 <h2>Github Trophies 🏆</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sid-80&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-###
-
-<h2>GSSOC'24 ⚒️</h2>
-
-<div align="center">
-  <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=256" height="150" alt="postman badge"  />
-  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=256" height="150" alt="badge 1"  />
-  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=256" height="150" alt="badge 2"  />
-  <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=256" height="150" alt="badge 3"  />
-  <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=256" height="150" alt="badge 4"  />
-  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" height="150" alt="badge 5"  />
-  <img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=256" height="150" alt="badge 6"  />
-  <img src="https://gssoc.girlscript.tech/badges/7.png?imwidth=256" height="150" alt="badge 7"  />
-</div>
 
 ###
 
